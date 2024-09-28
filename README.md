@@ -1,9 +1,11 @@
-![fotoCaraCirculo](https://github.com/user-attachments/assets/96dd8eb1-09d0-448c-810b-d02b7ef7f58a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96dd8eb1-09d0-448c-810b-d02b7ef7f58a" alt="fotoCaraCirculo" width="200"/>
+</p>
 
-# Gonzalo Nieto
-## Desarrollador Web y Administrador de Sistemas Informáticos Especializado en Ciberseguridad
+<h1 align="center">Hola, me llamo Gonzalo Nieto 👋</h1>
+<h2 align="center">Developer & BI Instructor</h2>
 
-¡Hola! Mi nombre es **Gonzalo Nieto**, soy desarrollador web y administrador de sistemas, apasionado por la ciberseguridad, la programación y la tecnología. Actualmente estoy cursando un Grado en Ingeniería Informática, además de estar finalizando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). 
+Soy desarrollador web y administrador de sistemas informáticos especializado en la ciberseguridad. Actualmente estoy cursando una ingeniería informática y llevo varios años instruyendo a empresas y llevando el soporte técnico en Ticout , una empresa especializada en Software de BI y análisis de datos.
 
 Mi perfil combina conocimientos en desarrollo web, administración de sistemas y ciberseguridad, con experiencia en formación y soporte técnico a empresas. Mi objetivo es crear valor a través de proyectos innovadores y la enseñanza de nuevas tecnologías.
 
