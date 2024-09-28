@@ -4,7 +4,6 @@
 <h1 align="center">Hola, me llamo Gonzalo Nieto 👋</h1>
 <h2 align="center">Developer & BI Instructor</h2>
 Soy desarrollador web y administrador de sistemas informáticos especializado en la ciberseguridad. Actualmente estoy cursando una ingeniería informática y llevo varios años instruyendo a empresas y llevando el soporte técnico en Ticout , una empresa especializada en Software de BI y análisis de datos. Apasionado de las nuevas tecnologías, las relaciones humanas y la comunicación. Entusiasta de la gestión de equipos, desarrollo de ideas, proyectos , ejecución de tareas y crear valor agregado en lo que a uno le apasiona.
----
 
 ## 📚 Formación Académica
 
