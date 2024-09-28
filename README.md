@@ -32,10 +32,11 @@ Soy desarrollador web y administrador de sistemas informáticos especializado en
 ## 🌐 Experiencia Profesional
 
 ### **Analista e Instructor de BI** - *BI & Big Data by Ticout* (Oct. 2021 - Presente)
+
 - Dar soporte técnico sobre Yellowfin BI.
--Migración de datos y puesta en marcha.
--Formación a usuarios Reporters y Administradores.
--Ayuda en Actualizar la aplicación.
+- Migración de datos y puesta en marcha.
+- Formación a usuarios Reporters y Administradores.
+- Ayuda en actualizar la aplicación.
 
 ### **Desarrollador Web Full-Stack** - *Escapastic* (Oct. 2020 - Abr. 2021)
 -Contrato de prácticas, donde estuve 3 meses como desarrollador web front-end y 7 meses como desarrollador web de back-end y colaboré en la creación de varias webs.****
