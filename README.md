@@ -4,10 +4,7 @@
 <h1 align="center">Hola, me llamo Gonzalo Nieto 👋</h1>
 <h2 align="center">Developer & BI Instructor</h2>
 
-Soy desarrollador web y administrador de sistemas informáticos especializado en la ciberseguridad. Actualmente estoy cursando una ingeniería informática y llevo varios años instruyendo a empresas y llevando el soporte técnico en Ticout , una empresa especializada en Software de BI y análisis de datos.
-
-Mi perfil combina conocimientos en desarrollo web, administración de sistemas y ciberseguridad, con experiencia en formación y soporte técnico a empresas. Mi objetivo es crear valor a través de proyectos innovadores y la enseñanza de nuevas tecnologías.
-
+Soy desarrollador web y administrador de sistemas informáticos especializado en la ciberseguridad. Actualmente estoy cursando una ingeniería informática y llevo varios años instruyendo a empresas y llevando el soporte técnico en Ticout , una empresa especializada en Software de BI y análisis de datos. Apasionado de las nuevas tecnologías, las relaciones humanas y la comunicación. Entusiasta de la gestión de equipos, desarrollo de ideas, proyectos , ejecución de tareas y crear valor agregado en lo que a uno le apasiona.
 ---
 
 ## 📚 Formación Académica
@@ -79,12 +76,10 @@ Mi perfil combina conocimientos en desarrollo web, administración de sistemas y
 
 ---
 
-## 📖 Acerca de mí
+## 📖 Acerca de Nietodev
 
-Soy un apasionado de las nuevas tecnologías, las relaciones humanas y la comunicación. Disfruto colaborando en la gestión de equipos y el desarrollo de proyectos que aporten valor agregado. Mi experiencia en formación y soporte técnico me ha permitido trabajar con diversas herramientas tecnológicas, ayudando a empresas a transformar sus datos en conocimientos prácticos a través de plataformas de Business Intelligence.
-
-Siempre estoy en búsqueda de nuevas oportunidades para mejorar mis habilidades, compartir conocimiento y seguir aprendiendo. En mi tiempo libre, disfruto explorando nuevas tecnologías, participando en proyectos de código abierto y asistiendo a conferencias de tecnología.
-
+    NietoDev es la ambición e ilusión por seguir aprendiendo y desarrollando mi carrera profesional dentro de la industria tecnologica. Desde pequeño me ha gustado la informática y siempre he tenido bastante claro que me quería dedicar a ella , es por eso que disfruto y me apasiona poder realizar trabajos relacionados con ese mundo.
+    Siempre estoy en búsqueda de nuevas oportunidades para mejorar mis habilidades, compartir conocimiento y seguir aprendiendo. En mi tiempo libre, disfruto explorando nuevas tecnologías y desarrollando proyectos.
 ---
 
 ## 📫 Contacto
