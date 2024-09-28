@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/af7fc5a9-98f3-4b0e-93f3-bedf3cf52ff4" alt="nietodev_logo">
+  <img src="https://github.com/user-attachments/assets/96dd8eb1-09d0-448c-810b-d02b7ef7f58a" alt="fotoCaraCirculo" width="200"/>
 </p>
 <h1 align="center">Hola, me llamo Gonzalo Nieto 👋</h1>
 <h2 align="center">Developer & BI Instructor</h2>
-
 Soy desarrollador web y administrador de sistemas informáticos especializado en la ciberseguridad. Actualmente estoy cursando una ingeniería informática y llevo varios años instruyendo a empresas y llevando el soporte técnico en Ticout , una empresa especializada en Software de BI y análisis de datos. Apasionado de las nuevas tecnologías, las relaciones humanas y la comunicación. Entusiasta de la gestión de equipos, desarrollo de ideas, proyectos , ejecución de tareas y crear valor agregado en lo que a uno le apasiona.
 ---
 
