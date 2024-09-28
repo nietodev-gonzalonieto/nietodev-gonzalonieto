@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/96dd8eb1-09d0-448c-810b-d02b7ef7f58a" alt="fotoCaraCirculo" width="200"/>
+  <img src="https:///github.com/user-attachments/assets/39262e30-3e48-4e13-bd7e-d4d0600187ae" alt="fotoCaraCirculo" width="200"/>
 </p>
 
 <h1 align="center">Hola, me llamo Gonzalo Nieto 👋</h1>
