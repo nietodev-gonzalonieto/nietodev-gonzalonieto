@@ -78,8 +78,8 @@ Soy desarrollador web y administrador de sistemas informáticos especializado en
 
 ## 📖 Acerca de Nietodev
 
-    NietoDev es la ambición e ilusión por seguir aprendiendo y desarrollando mi carrera profesional dentro de la industria tecnologica. Desde pequeño me ha gustado la informática y siempre he tenido bastante claro que me quería dedicar a ella , es por eso que disfruto y me apasiona poder realizar trabajos relacionados con ese mundo.
-    Siempre estoy en búsqueda de nuevas oportunidades para mejorar mis habilidades, compartir conocimiento y seguir aprendiendo. En mi tiempo libre, disfruto explorando nuevas tecnologías y desarrollando proyectos.
+NietoDev es la ambición e ilusión por seguir aprendiendo y desarrollando mi carrera profesional dentro de la industria tecnológica. Desde pequeño me ha gustado la informática y siempre he tenido bastante claro que me quería dedicar a ella, es por eso que disfruto y me apasiona poder realizar trabajos relacionados con ese mundo. Siempre estoy en búsqueda de nuevas oportunidades para mejorar mis habilidades, compartir conocimiento y seguir aprendiendo. En mi tiempo libre, disfruto explorando nuevas tecnologías y desarrollando proyectos.
+
 ---
 
 ## 📫 Contacto
