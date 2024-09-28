@@ -30,7 +30,6 @@ Mi perfil combina conocimientos en desarrollo web, administración de sistemas y
   - Ciberseguridad y Hacking Ético
   - Administración de Sistemas y Redes
   - Business Intelligence (BI)
-  - Virtualización y Gestión de Infraestructuras
   - Diseño y Gestión de Bases de Datos
 
 ---
@@ -38,18 +37,16 @@ Mi perfil combina conocimientos en desarrollo web, administración de sistemas y
 ## 🌐 Experiencia Profesional
 
 ### **Analista e Instructor de BI** - *BI & Big Data by Ticout* (Oct. 2021 - Presente)
-- Brindar soporte y formación técnica a empresas en la plataforma **Yellowfin BI**.
-- Enseñar análisis de datos, creación de paneles de control y extracción de insights.
-- Trabajo como autónomo, especializándome en soporte a BI.
+- Dar soporte técnico sobre Yellowfin BI.
+-Migración de datos y puesta en marcha.
+-Formación a usuarios Reporters y Administradores.
+-Ayuda en Actualizar la aplicación.
 
-### **Desarrollador Web Back-end** - *Escapastic* (Dic. 2020 - Abr. 2021)
-- Contrato de prácticas. Trabajé en el desarrollo de funcionalidades para plataformas web.
-
-### **Desarrollador Web Front-end** - *Escapastic* (Oct. 2020 - Dic. 2020)
-- Desarrollo de interfaces web y diseño UX/UI en proyectos interactivos.
+### **Desarrollador Web Full-Stack** - *Escapastic* (Oct. 2020 - Abr. 2021)
+-Contrato de prácticas, donde estuve 3 meses como desarrollador web front-end y 7 meses como desarrollador web de back-end y colaboré en la creación de varias webs.****
 
 ### **IT Technician** - *Intrust Communication* (Mar. 2019 - Jun. 2019, Cork, Irlanda)
-- Realicé tareas de soporte técnico, mantenimiento de sistemas y resolución de incidencias durante mi estancia en Irlanda, como parte de un contrato de prácticas internacionales.
+- Realicé tareas de soporte técnico, mantenimiento de sistemas y resolución de incidencias durante mi estancia en Irlanda, como parte de un contrato de prácticas.
 
 ---
 
