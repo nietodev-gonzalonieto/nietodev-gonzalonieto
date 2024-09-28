@@ -1,7 +1,6 @@
 <p align="center">
-  ![nietodev_logo](https://github.com/user-attachments/assets/af7fc5a9-98f3-4b0e-93f3-bedf3cf52ff4)
+  <img src="https://github.com/user-attachments/assets/af7fc5a9-98f3-4b0e-93f3-bedf3cf52ff4" alt="nietodev_logo">
 </p>
-
 <h1 align="center">Hola, me llamo Gonzalo Nieto 👋</h1>
 <h2 align="center">Developer & BI Instructor</h2>
 
