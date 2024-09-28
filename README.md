@@ -1,4 +1,7 @@
-# Gonzalo Nieto - Desarrollador Web y Administrador de Sistemas Informáticos Especializado en Ciberseguridad
+![fotoCaraCirculo](https://github.com/user-attachments/assets/96dd8eb1-09d0-448c-810b-d02b7ef7f58a)
+
+# Gonzalo Nieto
+## Desarrollador Web y Administrador de Sistemas Informáticos Especializado en Ciberseguridad
 
 ¡Hola! Mi nombre es **Gonzalo Nieto**, soy desarrollador web y administrador de sistemas, apasionado por la ciberseguridad, la programación y la tecnología. Actualmente estoy cursando un Grado en Ingeniería Informática, además de estar finalizando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). 
 
@@ -12,7 +15,7 @@ Mi perfil combina conocimientos en desarrollo web, administración de sistemas y
 - **Grado Superior** en Desarrollo de Aplicaciones Web (DAW) - INS Camí de Mar (Calafell)
 - **Grado Superior** en Administración de Sistemas Informáticos en Red (Ciberseguridad) - INS Camí de Mar
 - **Grado Superior** en Desarrollo de Aplicaciones Multiplataforma (DAM) - UOC (2024-Presente)
-- **Grado** en Ingeniería Informática - Universidad Rovira i Virgili (Tarragona, 2022-Presente)
+- **Grado en Ingeniería** Informática - Universidad Rovira i Virgili (Tarragona, 2022-Presente)
 
 ---
 
